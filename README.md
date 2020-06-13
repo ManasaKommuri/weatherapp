@@ -1,16 +1,20 @@
 # weatherapp
 
-A new Flutter application.
+A Simple Weather app that gets you the weather.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# 💻Installation
 
-A few resources to get you started if this is your first Flutter project:
+1) Download this project(you can also use git to clone this rep)
+2) Extract the files onto your system
+3) Open the donloaded folder using Android Studio or Visual Code(having Flutter installed)
+4) Now navigate to pubspec.yaml in your editor and then Run flutter pub get
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```dart
+flutter pub get
+```
+5) if you encounter any issues then try flutter doctor
+```dart
+flutter doctor
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
